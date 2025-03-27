@@ -23,3 +23,6 @@
 # comandos mas usados
 - php artisan make:controller CategoriaController
 - php artisan make:model Categoria
+
+# yisus
+https://isise-my.sharepoint.com/:v:/g/personal/2017280209_isise_edu_pe/Ee6bBtn6gZVIninBfBNDr7wBucS40Z6AjOoMegngHf2GXg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=p6naiV

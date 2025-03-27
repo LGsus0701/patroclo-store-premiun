@@ -3,7 +3,7 @@
         Inicio
     </div>
     <div class="hover:bg-orange-600 p-1 rounded cursor-pointer">
-        Productos
+        Categorias
     </div>
     <div class="hover:bg-orange-600 p-1 rounded cursor-pointer">
         Marcas
